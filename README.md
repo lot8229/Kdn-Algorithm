@@ -1,3 +1,3 @@
 # Kdn-Algorithm
 Commit Algorithm png
-<img src="https://app.diagrams.net/#Hlot8229%2F-KDN%2Fmaster%2FUntitled%20Diagram.html">
+<img src="https://github.com/lot8229/Kdn-Algorithm/blob/master/kdn%20Algorithm%201.png?raw=true">
