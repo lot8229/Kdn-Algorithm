@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-09T12:12:04.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="aMQkS4kjM64JmTDGZKrH" version="13.7.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-09T12:18:07.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="kmA24kcppxik4W5R2Qxx" version="13.7.9" type="github" pages="2">
   <diagram id="we14fcO_ibnNhc2jqgIF" name="Page-1">
-    <mxGraphModel dx="1287" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1287" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,8 +88,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2fL9xPu-dTw6iTjDpC6E-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="2fL9xPu-dTw6iTjDpC6E-5" target="new_XckxPWkDHHhrYv5X-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2fL9xPu-dTw6iTjDpC6E-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="2fL9xPu-dTw6iTjDpC6E-5" target="new_XckxPWkDHHhrYv5X-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-326" y="610" />
+              <mxPoint x="-326" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2fL9xPu-dTw6iTjDpC6E-5" value="&lt;font style=&quot;font-size: 9px&quot;&gt;쓸모없는 전력이소비된다?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-300" y="570" width="80" height="80" as="geometry" />
@@ -98,7 +103,7 @@
           <mxGeometry x="-230" y="589" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2fL9xPu-dTw6iTjDpC6E-8" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="589" width="40" height="20" as="geometry" />
+          <mxGeometry x="-330" y="585" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2fL9xPu-dTw6iTjDpC6E-11" value="give an warning on&amp;nbsp;&lt;br&gt;Application" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-160" y="580" width="120" height="60" as="geometry" />
