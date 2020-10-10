@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-09T12:18:07.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="kmA24kcppxik4W5R2Qxx" version="13.7.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-10T08:46:13.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="9HftGl7y_oPKnrMjhLq8" version="13.7.9" type="github" pages="2">
   <diagram id="we14fcO_ibnNhc2jqgIF" name="Page-1">
-    <mxGraphModel dx="1287" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1287" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,7 +108,7 @@
         <mxCell id="2fL9xPu-dTw6iTjDpC6E-11" value="give an warning on&amp;nbsp;&lt;br&gt;Application" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-160" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2fL9xPu-dTw6iTjDpC6E-13" value="기준 :Tv 셋톱박스 대기전력이 13.4w로 (2018)&amp;nbsp; 이 기준으로 하여 넘으면 True 넘지 않으면" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;dashed=1;" parent="1" vertex="1">
+        <mxCell id="2fL9xPu-dTw6iTjDpC6E-13" value="기준 :Tv 셋톱박스 대기전력이 13.4w로 (2018)&amp;nbsp; 이 기준으로 하여 넘으면 True 넘지 않으면 False" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-175" y="480" width="150" height="82" as="geometry" />
         </mxCell>
       </root>
