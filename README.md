@@ -1,15 +1,6 @@
 # Kdn-Algorithm
 ---
-## Commit Algorithm png
+## FInal Algorithm png
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=5,IE=9" ><![endif]-->
-<!DOCTYPE html>
-<html>
-<head>
-<title>kdn-imbeded-diagram.html</title>
-<meta charset="utf-8"/>
-</head>
-<body>
-<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;xml&quot;:&quot;&lt;mxfile host=\&quot;Chrome\&quot; modified=\&quot;2021-01-06T05:58:44.967Z\&quot; agent=\&quot;5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36\&quot; etag=\&quot;qQ_2cv1ZpUq_-M9sGGAY\&quot; version=\&quot;13.9.5\&quot; type=\&quot;device\&quot; pages=\&quot;2\&quot;&gt;&lt;diagram id=\&quot;we14fcO_ibnNhc2jqgIF\&quot; name=\&quot;Page-1\&quot;&gt;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&lt;/diagram&gt;&lt;diagram id=\&quot;VqIn0J1o04yH5jwhSEmT\&quot; name=\&quot;Page-2\&quot;&gt;rdJND4IgGAfwT8PRzaA3j6WWrXmpQ2cSVDb0cUhT+/RpaMU6dGljHH784YFnIOIX7V7RKo+BcYmwy1pEAoSxh91+HqAzMFvguZFMCTbaG87izkccN2Y3wXhtBTWA1KKyMYGy5Im2jCoFjR1LQdpVK5rxLzgnVH7rRTCdG13j1dsjLrJ8qjxbemaloFN4fEmdUwbNB5EQ4SXCpKWIbNFg9iC+AtA/Y1O4aH0uh+ZPfXWDAz0GjhdHaVM13aY4XUPHXGb351NfXVK81H+oTvw+9eP1z4z170j4AA==&lt;/diagram&gt;&lt;/mxfile&gt;&quot;,&quot;toolbar&quot;:&quot;pages zoom layers lightbox&quot;,&quot;page&quot;:0}"></div>
-<script type="text/javascript" src="https://app.diagrams.net/js/viewer-static.min.js"></script>
-</body>
-</html>
+
+<img src="임베디드 다이어그램.png" alt="My Image">
